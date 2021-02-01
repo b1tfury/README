@@ -18,13 +18,12 @@ This is a one page project, which talks about how to setup a simple README for a
 As a fan of wealth, I want to model money which can be expressed in Rupees, paise or a combination thereof,  So that I can add and subtract values of money. I also want to print it on screen. Also we should be able to compare two money and sort them.
 
 ## Dev Environment Setup for OS X.
-* Java v10
+* Java v15
 ```
-$ brew cask install java
+$ brew install java
 ```
-At present(22/08/2018) it will directly install java 10. Please verify the version if you are using it later.
+At present(01/02/2021) it will directly install java 15. Please verify the version if you are using it later.
 
-[To install java please refer](https://docs.oracle.com/javase/10/install/overview-jdk-10-and-jre-10-installation.htm)
 * Gradle v5.0
 
 [To install gradle please refer](https://gradle.org/install/)

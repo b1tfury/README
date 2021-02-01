@@ -3,7 +3,7 @@
 This is a one page project, which talks about how to setup a simple README for any tech project be it
 * Library
 * Service
-* Sripts
+* Scripts
 
 ## Recommended Minimum Structure for a project
 

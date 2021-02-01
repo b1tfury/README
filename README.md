@@ -12,7 +12,7 @@ This is a one page project, which talks about how to setup a simple README for a
 * Build instructions
 * Run instructions
 
-## Sample Readme
+## Sample Readme for a plain java project.
 
 # Project Description
 As a fan of wealth, I want to model money which can be expressed in Rupees, paise or a combination thereof,  So that I can add and subtract values of money. I also want to print it on screen. Also we should be able to compare two money and sort them.
